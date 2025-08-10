@@ -1,0 +1,163 @@
+.body{
+    background-image: url("https://png.pngtree.com/background/20230528/original/pngtree-an-arrangement-of-various-indian-food-picture-image_2778221.jpg");
+    height: 100vh;
+    background-size: cover;
+
+}
+.bg-d{
+    background-color: #06000087;
+}
+#img1{
+    height: 40px ;
+    background-color: none;
+}
+#btn{
+    background-color: transparent;
+    border:2px solid rgba(247, 172, 12, 0.851);
+    color: rgba(247, 172, 12, 0.851);
+}
+#bg{
+    background-color: rgba(0, 0, 0, 0.664);
+    margin: 40px;
+    margin-top: 250px;
+    border-radius: 20px;
+    padding: 20px;
+    /* width: 500px; */
+}
+.btn{
+    background-color: rgba(247, 172, 12, 0.851);
+    color: aliceblue;
+    margin: 10px;
+}
+#text{
+    color: white;
+}
+
+
+
+/* 2nd page */
+.img11{
+    width: 200px;
+    height: 200px;
+}
+#bgs{
+    border: 4px solid rgb(234, 233, 233);
+    border-radius: 20px;
+    margin: 10px;
+    margin-right: 30px;
+    width: 500px;
+    
+}
+.page2{
+    height: 100vh;
+    /* background-size: cover; */
+    margin-top: 300px;
+
+}
+.hover{
+    text-decoration: none;
+    color: black;
+}
+.hover:hover{
+    text-decoration: none;
+    color: black;
+}
+
+
+/* 3rd page */
+.img22{
+    height: 200px;
+    width: 90% !important;
+    border-radius: 20px;
+    text-align: center;
+    
+}
+
+.img23{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+}
+
+
+#bgss{
+    border: 4px solid rgb(234, 233, 233);
+    border-radius: 20px;
+    margin-top: 10px;
+    
+}
+.img33{
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+}
+#bgsss{
+    border: 1px solid rgb(234, 233, 233);
+    border-radius: 20px;
+    margin-top: 50px;
+    
+}
+
+/* 4th-page */
+/* .page-4{
+    margin-top: 300px;
+} */
+.img44{
+    height: 30px;
+    width: 70px;
+    margin: 5px;
+    margin-top: 30px;
+}
+#pt{
+    margin-top: 40px;
+}
+/* gift box */
+
+.gift{
+    /* background-image: linear-gradient( to bottom, red, green,yellow); */
+    background-image: radial-gradient(white,rgb(237, 221, 221), rgb(248, 215, 172));
+    /* background-color: antiquewhite; */
+    height: 75vh;
+    /* margin-top: -200px; */
+}
+/* #button{
+    background-color: rgb(222, 196, 4);
+} */
+
+
+
+/* follow us page */
+.i{
+    background-color: antiquewhite;
+    height: 90px;
+    width: 90px;
+    border-radius: 50px;
+    margin: 20px;
+}
+.colour{
+    background-color: rgba(1, 1, 35, 0.822);
+    height: 65vh;
+    margin-top: 60px;
+}
+#img12{
+    height: 100px;
+    width: 100px;
+}
+#colour{
+    padding-top: 100px;
+}
+#image{
+    height: 90px;
+    width: 90px;
+    padding: 15px;
+}
+#image1{
+    height: 90px;
+    width: 146px;
+    padding: 10px;
+    margin-left: -28px;
+    /* padding-bottom: -20px; */
+}
